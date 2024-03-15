@@ -1,0 +1,59 @@
+1 to 55 of 55 entries
+Filter
+
+Timestamp	Level	Message
+Mar 15, 2024, 12:40:54 AM	INFO	Kernel started: 47b8b234-0fb2-458f-8eda-9228aed691df, name: python3
+Mar 15, 2024, 12:34:55 AM	INFO	Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+Mar 15, 2024, 12:34:55 AM	INFO	http://172.28.0.2:9000/
+Mar 15, 2024, 12:34:55 AM	INFO	Jupyter Notebook 6.5.5 is running at:
+Mar 15, 2024, 12:34:55 AM	INFO	Serving notebooks from local directory: /
+Mar 15, 2024, 12:34:55 AM	INFO	Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+Mar 15, 2024, 12:34:55 AM	INFO	http://172.28.0.12:9000/
+Mar 15, 2024, 12:34:55 AM	INFO	Jupyter Notebook 6.5.5 is running at:
+Mar 15, 2024, 12:34:55 AM	INFO	Serving notebooks from local directory: /
+Mar 15, 2024, 12:34:53 AM	INFO	google.colab serverextension initialized.
+Mar 15, 2024, 12:34:53 AM	INFO	google.colab serverextension initialized.
+Mar 15, 2024, 12:34:53 AM	INFO	Authentication of /metrics is OFF, since other authentication is disabled.
+Mar 15, 2024, 12:34:53 AM	INFO	Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+Mar 15, 2024, 12:34:53 AM	WARNING	/root/.jupyter/jupyter_notebook_config.json
+Mar 15, 2024, 12:34:53 AM	WARNING	/root/.local/etc/jupyter/jupyter_notebook_config.json
+Mar 15, 2024, 12:34:53 AM	WARNING	/usr/etc/jupyter/jupyter_notebook_config.json
+Mar 15, 2024, 12:34:53 AM	WARNING	/usr/local/etc/jupyter/jupyter_notebook_config.json
+Mar 15, 2024, 12:34:53 AM	WARNING	/usr/local/etc/jupyter/jupyter_notebook_config.d/panel-client-jupyter.json
+Mar 15, 2024, 12:34:53 AM	WARNING	/etc/jupyter/jupyter_notebook_config.json
+Mar 15, 2024, 12:34:53 AM	INFO	Authentication of /metrics is OFF, since other authentication is disabled.
+Mar 15, 2024, 12:34:53 AM	INFO	Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+Mar 15, 2024, 12:34:53 AM	WARNING	/root/.jupyter/jupyter_notebook_config.json
+Mar 15, 2024, 12:34:53 AM	WARNING	/root/.local/etc/jupyter/jupyter_notebook_config.json
+Mar 15, 2024, 12:34:53 AM	WARNING	/usr/etc/jupyter/jupyter_notebook_config.json
+Mar 15, 2024, 12:34:53 AM	WARNING	/usr/local/etc/jupyter/jupyter_notebook_config.json
+Mar 15, 2024, 12:34:53 AM	WARNING	/usr/local/etc/jupyter/jupyter_notebook_config.d/panel-client-jupyter.json
+Mar 15, 2024, 12:34:53 AM	WARNING	/etc/jupyter/jupyter_notebook_config.json
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.992 NotebookApp] Loaded config file: /root/.jupyter/jupyter_notebook_config.py
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.987 NotebookApp] Looking for jupyter_notebook_config in /root/.jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.987 NotebookApp] Looking for jupyter_notebook_config in /root/.local/etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.987 NotebookApp] Looking for jupyter_notebook_config in /usr/etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.987 NotebookApp] Loaded config file: /usr/local/etc/jupyter/jupyter_notebook_config.json
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.984 NotebookApp] Looking for jupyter_notebook_config in /usr/local/etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.984 NotebookApp] Loaded config file: /etc/jupyter/jupyter_notebook_config.py
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.983 NotebookApp] Looking for jupyter_notebook_config in /etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.982 NotebookApp] Looking for jupyter_config in /root/.jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.982 NotebookApp] Looking for jupyter_config in /root/.local/etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.982 NotebookApp] Looking for jupyter_config in /usr/etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.977 NotebookApp] Looking for jupyter_config in /usr/local/etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.974 NotebookApp] Looking for jupyter_config in /etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.974 NotebookApp] Searching ['/root/.jupyter', '/root/.local/etc/jupyter', '/usr/etc/jupyter', '/usr/local/etc/jupyter', '/etc/jupyter'] for config files
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.976 NotebookApp] Loaded config file: /root/.jupyter/jupyter_notebook_config.py
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.973 NotebookApp] Looking for jupyter_notebook_config in /root/.jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.973 NotebookApp] Looking for jupyter_notebook_config in /root/.local/etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.973 NotebookApp] Looking for jupyter_notebook_config in /usr/etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.973 NotebookApp] Loaded config file: /usr/local/etc/jupyter/jupyter_notebook_config.json
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.969 NotebookApp] Looking for jupyter_notebook_config in /usr/local/etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.969 NotebookApp] Loaded config file: /etc/jupyter/jupyter_notebook_config.py
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.966 NotebookApp] Looking for jupyter_notebook_config in /etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.965 NotebookApp] Looking for jupyter_config in /root/.jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.965 NotebookApp] Looking for jupyter_config in /root/.local/etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.965 NotebookApp] Looking for jupyter_config in /usr/etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.955 NotebookApp] Looking for jupyter_config in /usr/local/etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.952 NotebookApp] Looking for jupyter_config in /etc/jupyter
+Mar 15, 2024, 12:34:52 AM	WARNING	[D 05:34:52.952 NotebookApp] Searching ['/root/.jupyter', '/root/.local/etc/jupyter', '/usr/etc/jupyter', '/usr/local/etc/jupyter', '/etc/jupyter'] for config files
